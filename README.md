@@ -10,7 +10,7 @@ SMT module which could be integrated into PCB of Flight Controller or some other
 - voltage: 1s-3s(which is limited by LDO, if you use the input 3V3 and don't solder the LDO, then you could use higher voltage. Please be care about withstand voltage of 
 input capacities) 
 
-To lower the cost, the there is cut area in the PCB. Because the half hole process in PCB sample production cost mucher higher, 
+To lower the cost, there is cut area in the PCB. Because the half hole process in PCB sample production cost mucher higher, 
 we can cut the extral area after the PCB production manually.
 
 ![image](https://github.com/Ncerzzk/Mini_BLHeli_S/blob/master/images/Mini_BLHeli.jpg?raw=true)
@@ -18,7 +18,7 @@ we can cut the extral area after the PCB production manually.
 ![image](https://github.com/Ncerzzk/Mini_BLHeli_S/blob/master/images/Mini_BLHeli_cut_area.jpg?raw=true)
 
 ## License
-Please notice that the license of this project is GPL 3.0. For hardware project, hope that you can share the changes if you did something different in the sch or pcb.
+Please notice that the license of this project is GPL 3.0. For hardware project, hope that you can share the changes if you make something different in the sch or pcb.
 
 
 
