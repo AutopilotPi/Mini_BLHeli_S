@@ -120,6 +120,7 @@
       },
       "track_widths": [
         0.0,
+        0.508,
         0.762
       ],
       "via_dimensions": [
@@ -344,7 +345,10 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "ic",
+      "lceda_temp"
+    ]
   },
   "meta": {
     "filename": "Mini_BLHeli.kicad_pro",
@@ -364,7 +368,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
+        "track_width": 0.1778,
         "via_diameter": 0.508,
         "via_drill": 0.3048,
         "wire_width": 6.0
